@@ -6,7 +6,7 @@ public class PrimeNumbers {
         for(integer j=i; j>=1;j--)
         {
             
-            if(math.mod(i,j)== 0)
+            if(math.mod(i,j)== )
             {
                 count++;
             }
