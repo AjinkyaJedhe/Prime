@@ -1,4 +1,4 @@
-public class PrimeNumber {
+public class PrimeNum {
     
   static integer remainder;
   static boolean isPrime=true;
